@@ -14,7 +14,7 @@ and learning different languages.
 
 ## Experience
 - C++ Developer at Aldec (Aldec-KTC team) (July 2015 - November 2018) Key responsibilities:
-  - Lexical, syntax and semantic analysis of VHDL, Verilog and System Verilog code
+  - Lexical, syntax, and semantic analysis of VHDL, Verilog and System Verilog code
   - Extraction and verification of Finite State Machine structures from RTL design descriptions
   - Development of linting rules for design static verification
   - Verification framework features implementation (incremental compilation, dependency management, linting policies, etc.)
@@ -24,30 +24,36 @@ and learning different languages.
   - Licensing framework development, testing and support
   - C++ libraries infrastructure support, co-ownership of several general purpose libraries (filesystem, SAX - Simple API for XML)
   - Design and development of AWS-based eyewear web-application
-  - Design, development and support of the 3d model pre-print processing web-application
+  - Design, development, and support of the 3d model pre-print processing web-application
 
 - Software Engineer at ProfiseaLabs (Apr 2022 - Present)
-  - Development, testing and support of the microserice-based web platform
-  - FinOps tooling development for AWS and Azure (cost analysis, resource scheduling and rightsizing, waste management, etc.)
-  - Kubernetes cost optimization tools design, development and support
+  - Development, testing, and support of the microservice-based web platform
+  - FinOps tooling development for AWS and Azure (cost analysis, resource scheduling, and rightsizing, waste management, etc.)
+  - Kubernetes cost optimization tools design, development, and support
+ 
+- Software Engineer, freelance (Jan 2023 - Present)
+  - Online-shop development: payment system integration (Stripe API)
+  - Desktop application development (Tauri, SQLite)
+  - Telegram Bot development
 
 ## Skills
 - Python (Django, Flask, FastAPI; numpy, pandas, - matplotlib, etc.)
 - Rust (including async/await, tokio, actix-web, axum, - sqlx, etc.)
-- IaaS: AWS (Lambda, EC2, S3, EKS, etc.), Digital Ocean, Google - Cloud Platform, Azure
+- IaaS: AWS (Lambda, EC2, S3, EKS, etc.), Digital Ocean, Google Cloud Platform, Azure Cloud
 - Kubernetes
 - Go
 - C++ (including C++11/14/17, experience with boost, Qt)
-- JavaScript (native applications with React Native)
+- JavaScript (NodeJS, native applications with React Native)
 - RDBMS (MySQL, PostgreSQL, SQLite) and noSQL (DynamoDB, - MondoDB, Neo4j, Memcached)
 - Understanding of concurrent and parallel programming, - networking
 - Knowledge of Git, Subversion VCSs, experience with - various IDEs (Visual Studio, Eclipse, PyCharm, etc.)
 - HDL (VHDL, Verilog, System Verilog)
+- Blockchain - Solana (Anchor, Solana Actions)
 
 ## Languages
-- Russian - Native or Bilingual proficiency
 - Ukrainian - Native proficiency
-- English - Professional working proficiency - B2
+- English - Advanced - C1
+- Russian - Native or Bilingual proficiency
 
 ## Education
 - Master's degree in "Specialized Computer Systems" (September 2017 - December 2018) at Kharkiv National University of Radioelectronics (not finished yet)
@@ -61,6 +67,7 @@ and learning different languages.
 - Certified Kubernetes Application Developer (CKAD). June 2022, [LF-rgkasgrrcw](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/cd7357af-aa18-4988-aab6-752156ad2293-oleksandr-anosov-f1f493f6-c70b-482c-8a69-dd322ac3ce4e-certificate.pdf)
 
 ## Additional education
+- School of Solana: Season 5 by Ackee Security
 - 6.86x: Machine Learning with Python-From Linear Models - to Deep Learning 47af6a170c4a455793a80e120d30ba5f
 - 6.431x: Probability - The Science of Uncertainty and - Data. 6765e936074f431a97a016aade5b40c0
 - Google IT Support Professional Certificate (Coursera, by - Google)

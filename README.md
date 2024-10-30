@@ -56,10 +56,12 @@ and learning different languages.
 - Russian - Native or Bilingual proficiency
 
 ## Education
-- Master's degree in "Specialized Computer Systems" (September 2017 - December 2018) at Kharkiv National University of Radioelectronics (not finished yet)
+- Master's degree in "Computer Science" (September 2023 - January 2025) at Donbas State Engineering Academy
+- Master's degree in "Specialized Computer Systems" (September 2017 - January 2019) at Kharkiv National University of Radioelectronics
 - Bachelor's degree in "Computer Engineering" (September 2013 - June 2017) at Kharkiv National University of Radioelectronics
 
 ## Certifications
+- Certified Kubernetes Administrator (CKA). October 2024, [LF-nliq1ja5kc](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/cd7357af-aa18-4988-aab6-752156ad2293-oleksandr-anosov-2d9c0553-f255-4561-9300-4951593ad038-certificate.pdf)
 - AWS Certified Solutions Architect - Professional. Dec 17, 2021, Q0DTG7VJHJQ4QXWW
 - AWS Certified Developer - Associate. Aug 4, 2020, CHER7EYKFFVE1Q9Y
 - AWS Certified SysOps Administrator - Associate. Dec 18, 2020, PHFLCGEJJM4EQZGN

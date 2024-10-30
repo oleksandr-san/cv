@@ -27,14 +27,14 @@ and learning different languages.
   - Design, development, and support of the 3d model pre-print processing web-application
 
 - Software Engineer at ProfiseaLabs (Apr 2022 - Present)
-  - Development, testing, and support of the microservice-based web platform
+  - Development, testing, and support of the microservice-based web platform in Python and Go
   - FinOps tooling development for AWS and Azure (cost analysis, resource scheduling, and rightsizing, waste management, etc.)
   - Kubernetes cost optimization tools design, development, and support
  
 - Software Engineer, freelance (Jan 2023 - Present)
-  - Online-shop development: payment system integration (Stripe API)
-  - Desktop application development (Tauri, SQLite)
-  - Telegram Bot development
+  - Online-shop development in NodeJS: payment system integration (Stripe API)
+  - Desktop application development (Rust, Tauri, SQLite)
+  - Telegram Bot development (Python)
 
 ## Skills
 - Python (Django, Flask, FastAPI; numpy, pandas, - matplotlib, etc.)

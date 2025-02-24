@@ -1,54 +1,63 @@
 ## Personal information
 - name: Oleksandr Anosov
-- date of birth: 31.03.1996
-- nationality: Ukrainian
-- location: Lviv, Ukraine
+- location: Ukraine
 - email: oleksandr.v.anosov@gmail.com
-- phone: +380997038097
 - linkedin: linkedin.com/in/alexanderanosov
 - github: [oleksandr-san](https://github.com/oleksandr-san)
 
 ## Personal profile
-Responsible, respectful, team player. Interested in solving challenging tasks. Passionate about data-intensive applications, ideas of functional programming
-and learning different languages.
+I'm a software engineer with a strong background in backend development, cloud-native technologies, and performance optimization.
+With experience in C++, Python, Go, and Rust, I've worked on data-intensive applications, cloud infrastructure, and FinOps solutions.</br>
+As an active member of the Ukrainian Rust community, I’m passionate about functional programming, Kubernetes, and cost-efficient cloud computing.
+Holding multiple Kubernetes and AWS certifications, I continuously explore new technologies to build scalable and resilient systems.</br>
+Responsible, respectful, and a team player, I thrive on solving challenging tasks and continuously expanding my expertise.
 
 ## Experience
-- C++ Developer at Aldec (Aldec-KTC team) (July 2015 - November 2018) Key responsibilities:
-  - Lexical, syntax, and semantic analysis of VHDL, Verilog and System Verilog code
-  - Extraction and verification of Finite State Machine structures from RTL design descriptions
-  - Development of linting rules for design static verification
-  - Verification framework features implementation (incremental compilation, dependency management, linting policies, etc.)
-  - Software development infrastructure support
+- C++ Developer at Aldec (Aldec-KTC team) (July 2015 - November 2018):
+  - Implemented lexical, syntax, and semantic analysis for VHDL, Verilog, and System Verilog.
+  - Extracted and verified Finite State Machine structures from RTL design descriptions.
+  - Developed linting rules for design static verification.
+  - Enhanced verification framework (incremental compilation, dependency management, linting policies).
 
 - Software Development Engineer at Materialise (January 2019 - July 2022)
-  - Licensing framework development, testing and support
-  - C++ libraries infrastructure support, co-ownership of several general purpose libraries (filesystem, SAX - Simple API for XML)
-  - Design and development of AWS-based eyewear web-application
-  - Design, development, and support of the 3d model pre-print processing web-application
+  - Participated in licensing framework development, testing, and support.
+  - Maintained and co-owned C++ libraries (filesystem, SAX - Simple API for XML).
+  - Built and supported cloud deployment automation platform for a 3D model pre-print processing web application.
+  - Designed and developed AWS-based eyewear web applications (US team collaboration).
 
 - Software Engineer at ProfiseaLabs (Apr 2022 - Present)
-  - Development, testing, and support of the microservice-based web platform in Python and Go
-  - FinOps tooling development for AWS and Azure (cost analysis, resource scheduling, and rightsizing, waste management, etc.)
-  - Kubernetes cost optimization tools design, development, and support
+  - Developed, tested, and maintained a microservice-based web platform in Python and Go.
+  - Designed and implemented FinOps tools for AWS and Azure (cost analysis, resource scheduling, waste management, rightsizing).
+  - Developed Kubernetes cost optimization tools.
 
 - Software Engineer, freelance (Jan 2023 - Present)
-  - Online-shop development in NodeJS: payment system integration (Stripe API)
-  - Desktop application development (Rust, Tauri, SQLite)
-  - Telegram Bot development (Python)
+  - Developed an online shop in NodeJS, integrating Stripe API for payments.
+  - Built a desktop application using Rust (Tauri, SQLite).
+  - Created a Telegram Bot with Python.
 
 ## Skills
-- Python (Django, Flask, FastAPI; numpy, pandas, - matplotlib, etc.)
-- Rust (including async/await, tokio, actix-web, axum, - sqlx, etc.)
-- IaaS: AWS (Lambda, EC2, S3, EKS, etc.), Digital Ocean, Google Cloud Platform, Azure Cloud
-- Kubernetes
-- Go
-- C++ (including C++11/14/17, experience with boost, Qt)
-- JavaScript (NodeJS, native applications with React Native)
-- RDBMS (MySQL, PostgreSQL, SQLite) and noSQL (DynamoDB, - MondoDB, Neo4j, Memcached)
-- Understanding of concurrent and parallel programming, - networking
-- Knowledge of Git, Subversion VCSs, experience with - various IDEs (Visual Studio, Eclipse, PyCharm, etc.)
-- HDL (VHDL, Verilog, System Verilog)
-- Blockchain - Solana (Anchor, Solana Actions)
+
+### Programming Languages & Frameworks:
+- **Python** (Django, Flask, FastAPI, NumPy, Pandas, Matplotlib)
+- **Rust** (async/await, Tokio, Actix-web, Axum, SQLx)
+- **Go**
+- **C++** (C++11/14/17, Boost, Qt)
+- **JavaScript** (NodeJS, React Native)
+
+### Cloud & DevOps:
+- AWS (Lambda, EC2, S3, EKS), Google Cloud, Azure, Digital Ocean
+- Kubernetes, Terraform
+- FinOps, Cost Optimization, Infrastructure as Code
+
+### Databases:
+- SQL (PostgreSQL, SQLite, MySQL)
+- NoSQL (MongoDB, DynamoDB, Neo4j, Memcached)
+
+### Other Technical Expertise:
+- Concurrent and parallel programming, networking
+- Git, Subversion, various IDEs (Visual Studio, Eclipse, PyCharm)
+- Hardware Description Languages (HDL): VHDL, Verilog, System Verilog
+- Blockchain: Solana (Anchor, Solana Actions)
 
 ## Languages
 - Ukrainian - Native proficiency
@@ -75,10 +84,4 @@ and learning different languages.
 - 6.86x: Machine Learning with Python-From Linear Models - to Deep Learning 47af6a170c4a455793a80e120d30ba5f
 - 6.431x: Probability - The Science of Uncertainty and - Data. 6765e936074f431a97a016aade5b40c0
 - Google IT Support Professional Certificate (Coursera, by - Google)
-- Technical Support Fundamentals, February 18, 2018
-- The Bits and Bytes of Computer Networking, March 25, 2018
-- Operating Systems and You: Becoming a Power User, May 1, - 2018
-- System Administration and IT Infrastructure Services, - June 4, 2018
-- IT Security: Defense against the digital dark arts, - October 30, 2018
-- Разработка веб-сервисов на Go - основы языка (Coursera, - by Moscow Institute of Physics and Technology, Mail.Ru - Group & ФРОО), July 2, 2018
 - Machine Learning (Coursera, by Andrew Ng), June 25, 2017

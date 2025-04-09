@@ -25,15 +25,15 @@ Responsible, respectful, and a team player, I thrive on solving challenging task
   - Built and supported cloud deployment automation platform for a 3D model pre-print processing web application.
   - Designed and developed AWS-based eyewear web applications (US team collaboration).
 
-- Software Engineer at ProfiseaLabs (Apr 2022 - Present)
-  - Developed, tested, and maintained a microservice-based web platform in Python and Go.
-  - Designed and implemented FinOps tools for AWS and Azure (cost analysis, resource scheduling, waste management, rightsizing).
-  - Developed Kubernetes cost optimization tools.
-
 - Software Engineer, freelance (Jan 2023 - Present)
   - Developed an online shop in NodeJS, integrating Stripe API for payments.
   - Built a desktop application using Rust (Tauri, SQLite).
   - Created a Telegram Bot with Python.
+
+- Software Engineer at ProfiseaLabs (Apr 2022 - March 2025)
+  - Developed, tested, and maintained a microservice-based web platform in Python and Go.
+  - Designed and implemented FinOps tools for AWS and Azure (cost analysis, resource scheduling, waste management, rightsizing).
+  - Developed Kubernetes cost optimization tools.
 
 ## Skills
 

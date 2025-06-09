@@ -34,7 +34,10 @@ Responsible, respectful, and a team player, I thrive on solving challenging task
   - Developed, tested, and maintained a microservice-based web platform in Python and Go.
   - Designed and implemented FinOps tools for AWS and Azure (cost analysis, resource scheduling, waste management, rightsizing).
   - Developed Kubernetes cost optimization tools.
-
+ 
+- Software Engineer at LevMinds (May 2025 - Present)
+  - Participated in the observability setup development for on-premises Kubernetes cloud
+   
 ## Skills
 
 ### Programming Languages & Frameworks:
@@ -65,23 +68,21 @@ Responsible, respectful, and a team player, I thrive on solving challenging task
 - Russian - Native or Bilingual proficiency
 
 ## Education
-- Master's degree in "Computer Science" (September 2023 - January 2025) at Donbas State Engineering Academy
+- Master's degree in "Computer Science" (September 2023 - May 2025) at Donbas State Engineering Academy
 - Master's degree in "Specialized Computer Systems" (September 2017 - January 2019) at Kharkiv National University of Radioelectronics
 - Bachelor's degree in "Computer Engineering" (September 2013 - June 2017) at Kharkiv National University of Radioelectronics
 
 ## Certifications
+- AWS Certified Solutions Architect - Professional. May 25, 2025, Q0DTG7VJHJQ4QXWW
 - Certified Kubernetes Security Specialist (CKS). December 2024, [LF-0sd2id35zf](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/cd7357af-aa18-4988-aab6-752156ad2293-oleksandr-anosov-1f32efc7-344f-4b95-870f-995b50e19533-certificate.pdf)
 - Certified Kubernetes Administrator (CKA). October 2024, [LF-nliq1ja5kc](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/cd7357af-aa18-4988-aab6-752156ad2293-oleksandr-anosov-2d9c0553-f255-4561-9300-4951593ad038-certificate.pdf)
 - Certified Kubernetes Application Developer (CKAD). June 2022, [LF-rgkasgrrcw](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/cd7357af-aa18-4988-aab6-752156ad2293-oleksandr-anosov-f1f493f6-c70b-482c-8a69-dd322ac3ce4e-certificate.pdf)
 - Kubernetes Cloud Native Associate (KCNA). January 2025, [LF-qdh7ak9jr7](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/cd7357af-aa18-4988-aab6-752156ad2293-oleksandr-anosov-4b2f8902-2bc6-4f4f-9e61-2a8d9d9bbd8e-certificate.pdf)
-- AWS Certified Solutions Architect - Professional. Dec 17, 2021, Q0DTG7VJHJQ4QXWW
-- AWS Certified Developer - Associate. Aug 4, 2020, CHER7EYKFFVE1Q9Y
-- AWS Certified SysOps Administrator - Associate. Dec 18, 2020, PHFLCGEJJM4EQZGN
-- Microsoft Certified: Azure Fundamentals, 21 Sep 2020
+- Certified GitOps Associate (CGOA). June 2025 [LF12iwltkkdm](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/cd7357af-aa18-4988-aab6-752156ad2293-oleksandr-anosov-33ce8ad3-3f97-4f31-be1a-9e0970b20149-certificate.pdf)
 
 ## Additional education
 - School of Solana: Season 5 by Ackee Security
-- 6.86x: Machine Learning with Python-From Linear Models - to Deep Learning 47af6a170c4a455793a80e120d30ba5f
-- 6.431x: Probability - The Science of Uncertainty and - Data. 6765e936074f431a97a016aade5b40c0
-- Google IT Support Professional Certificate (Coursera, by - Google)
+- 6.86x: Machine Learning with Python-From Linear Models to Deep Learning 47af6a170c4a455793a80e120d30ba5f
+- 6.431x: Probability - The Science of Uncertainty and Data. 6765e936074f431a97a016aade5b40c0
+- Google IT Support Professional Certificate (Coursera, by Google)
 - Machine Learning (Coursera, by Andrew Ng), June 25, 2017

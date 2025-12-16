@@ -36,14 +36,16 @@ Responsible, respectful, and a team player, I thrive on solving challenging task
   - Developed Kubernetes cost optimization tools.
  
 - Software Engineer at LevMinds (May 2025 - Present)
-  - Participated in the observability setup development for on-premises Kubernetes cloud
+  - Developed custom Kubernetes operators for multi-tenant observability infrastructure.
+  - Created and maintained comprehensive documentation for operations teams, internal users, and external customers.
+  - Provided production support for observability stack in private cloud environments.
    
 ## Skills
 
 ### Programming Languages & Frameworks:
+- **Go**
 - **Python** (Django, Flask, FastAPI, NumPy, Pandas, Matplotlib)
 - **Rust** (async/await, Tokio, Actix-web, Axum, SQLx)
-- **Go**
 - **C++** (C++11/14/17, Boost, Qt)
 - **JavaScript** (NodeJS, React Native)
 
